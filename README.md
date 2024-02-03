@@ -11,8 +11,6 @@ In this application, I took Instagram user data using the **Beautifulsoup (bs4)*
 
 - 🌱 My name: **Yusuf Gül**
 
-- 👨‍💻 To reach my website [yusufgulsite.cf](yusufgulsite.cf)
-
 - 📫 How to reach me **zyusuf_16@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yusuf-g%C3%BCl-b63a8323a/](https://www.linkedin.com/in/yusuf-g%C3%BCl-b63a8323a/)
